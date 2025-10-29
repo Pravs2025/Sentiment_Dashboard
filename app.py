@@ -52,4 +52,21 @@ fig_pie = px.pie(
 )
 st.plotly_chart(fig_pie, use_container_width=True)
 
-# --- L
+# --- Line Chart (if Date column exists) ---
+if "Date" in df.columns:
+    df["Date"] = pd.to_datetime(df["Date"])
+    trend = df.groupby(["Date", "Sentiment"]).size().reset_index(name="Count")
+    fig_trend = px.line(trend, x="Date", y="Count", color="Sentiment", title="📈 Sentiment Trend Over Time")
+    st.plotly_chart(fig_trend, use_container_width=True)
+
+# --- Product-wise Sentiment Breakdown ---
+product_summary = df.groupby(["Product_Name", "Sentiment"]).size().reset_index(name="Count")
+fig_bar = px.bar(product_summary, x="Product_Name", y="Count", color="Sentiment",
+                 title="🛍️ Sentiment Breakdown by Product", barmode="stack")
+st.plotly_chart(fig_bar, use_container_width=True)
+
+# --- Data Table ---
+st.subheader("📋 Review Sentiment Table")
+st.dataframe(df[["Customer_Name", "Product_Name", "Review_Text", "Sentiment"]].head(20))
+
+
