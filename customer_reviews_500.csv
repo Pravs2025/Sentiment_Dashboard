@@ -1,0 +1,501 @@
+Review_ID,Customer_Name,Product_Name,Review_Text,Date
+1,Customer_1,TV,Product exceeded expectations.,2025-07-24
+2,Customer_2,Backpack,"Packaging was decent, product works.",2025-05-27
+3,Customer_3,Laptop,Highly recommended! Great service.,2025-10-15
+4,Customer_4,Smartwatch,The size does not match the description.,2025-07-22
+5,Customer_5,Laptop,"Packaging was decent, product works.",2025-07-21
+6,Customer_6,Refrigerator,Good value for money.,2025-08-01
+7,Customer_7,Microwave,The packaging and build quality are perfect.,2025-09-17
+8,Customer_8,Shoes,Worth every penny! Excellent quality.,2025-09-24
+9,Customer_9,Shoes,Amazing quality and fast delivery!,2025-09-04
+10,Customer_10,Smartwatch,Performance is very slow and laggy.,2025-06-23
+11,Customer_11,Camera,It’s okay for the price.,2025-06-29
+12,Customer_12,Headphones,Very satisfied with the product performance.,2025-05-10
+13,Customer_13,TV,Poor customer service and delay in delivery.,2025-06-12
+14,Customer_14,Smartphone,Worth every penny! Excellent quality.,2025-09-19
+15,Customer_15,Smartphone,Amazing quality and fast delivery!,2025-10-02
+16,Customer_16,Backpack,Really happy with my purchase!,2025-09-25
+17,Customer_17,Shoes,"Superb experience, will buy again.",2025-05-18
+18,Customer_18,Shoes,Worth every penny! Excellent quality.,2025-05-26
+19,Customer_19,Smartwatch,Product stopped working after a week.,2025-10-27
+20,Customer_20,Headphones,Product exceeded expectations.,2025-05-03
+21,Customer_21,Headphones,Very comfortable and stylish product.,2025-05-06
+22,Customer_22,Microwave,Really happy with my purchase!,2025-09-14
+23,Customer_23,Refrigerator,Average experience overall.,2025-08-22
+24,Customer_24,Shoes,"Received on time, product is okay.",2025-05-30
+25,Customer_25,Smartwatch,The size does not match the description.,2025-08-27
+26,Customer_26,Microwave,"Superb experience, will buy again.",2025-08-06
+27,Customer_27,Smartwatch,Received a damaged item.,2025-05-04
+28,Customer_28,Camera,Product exceeded expectations.,2025-07-15
+29,Customer_29,Backpack,Highly recommended! Great service.,2025-08-03
+30,Customer_30,Shoes,Very satisfied with the product performance.,2025-10-18
+31,Customer_31,Backpack,Amazing quality and fast delivery!,2025-06-21
+32,Customer_32,Laptop,Really happy with my purchase!,2025-10-08
+33,Customer_33,Shoes,Amazing quality and fast delivery!,2025-09-14
+34,Customer_34,Headphones,Product exceeded expectations.,2025-06-02
+35,Customer_35,Refrigerator,Amazing quality and fast delivery!,2025-07-20
+36,Customer_36,Smartphone,Poor customer service and delay in delivery.,2025-09-06
+37,Customer_37,Smartwatch,"Neutral experience, no major complaints.",2025-07-03
+38,Customer_38,Smartwatch,Worth every penny! Excellent quality.,2025-05-22
+39,Customer_39,Laptop,Really happy with my purchase!,2025-09-12
+40,Customer_40,Headphones,Good value for money.,2025-05-20
+41,Customer_41,Camera,"Superb experience, will buy again.",2025-05-17
+42,Customer_42,Headphones,It’s okay for the price.,2025-07-31
+43,Customer_43,TV,Product exceeded expectations.,2025-05-22
+44,Customer_44,Camera,Worth every penny! Excellent quality.,2025-07-25
+45,Customer_45,Microwave,Very comfortable and stylish product.,2025-05-10
+46,Customer_46,Laptop,Works fine but could be better.,2025-06-11
+47,Customer_47,Laptop,"Packaging was decent, product works.",2025-10-16
+48,Customer_48,TV,Amazing quality and fast delivery!,2025-09-19
+49,Customer_49,TV,"Terrible experience, not worth the price.",2025-09-20
+50,Customer_50,Camera,"Battery drains too fast, disappointed.",2025-09-29
+51,Customer_51,TV,Worth every penny! Excellent quality.,2025-08-03
+52,Customer_52,Headphones,The packaging and build quality are perfect.,2025-07-04
+53,Customer_53,Headphones,"Packaging was decent, product works.",2025-06-12
+54,Customer_54,Refrigerator,Completely different from what was shown.,2025-09-18
+55,Customer_55,Camera,Very satisfied with the product performance.,2025-05-08
+56,Customer_56,TV,Very comfortable and stylish product.,2025-07-05
+57,Customer_57,Refrigerator,Worth every penny! Excellent quality.,2025-05-27
+58,Customer_58,Microwave,"Terrible experience, not worth the price.",2025-09-17
+59,Customer_59,Headphones,Works fine but could be better.,2025-05-09
+60,Customer_60,TV,Amazing quality and fast delivery!,2025-05-13
+61,Customer_61,Smartphone,Really happy with my purchase!,2025-06-01
+62,Customer_62,Camera,Received a damaged item.,2025-10-15
+63,Customer_63,Smartphone,Product exceeded expectations.,2025-07-16
+64,Customer_64,Smartphone,"Neutral experience, no major complaints.",2025-10-11
+65,Customer_65,Shoes,"Neutral experience, no major complaints.",2025-06-05
+66,Customer_66,Camera,Very satisfied with the product performance.,2025-06-21
+67,Customer_67,Smartphone,"Battery drains too fast, disappointed.",2025-07-20
+68,Customer_68,Smartwatch,Worth every penny! Excellent quality.,2025-05-04
+69,Customer_69,Shoes,"Packaging was decent, product works.",2025-08-12
+70,Customer_70,Refrigerator,The packaging and build quality are perfect.,2025-10-15
+71,Customer_71,Laptop,Completely different from what was shown.,2025-07-02
+72,Customer_72,Backpack,Product stopped working after a week.,2025-07-19
+73,Customer_73,Microwave,Really happy with my purchase!,2025-05-04
+74,Customer_74,Headphones,Worth every penny! Excellent quality.,2025-06-11
+75,Customer_75,Backpack,Really happy with my purchase!,2025-08-27
+76,Customer_76,Smartphone,Good value for money.,2025-10-20
+77,Customer_77,Laptop,"Performance is fine, not too impressive.",2025-08-27
+78,Customer_78,Shoes,Product exceeded expectations.,2025-09-14
+79,Customer_79,Smartphone,Very comfortable and stylish product.,2025-07-28
+80,Customer_80,Shoes,Good value for money.,2025-08-12
+81,Customer_81,Smartwatch,Good value for money.,2025-06-01
+82,Customer_82,Refrigerator,Highly recommended! Great service.,2025-05-25
+83,Customer_83,Smartphone,The packaging and build quality are perfect.,2025-08-23
+84,Customer_84,Laptop,"Neutral experience, no major complaints.",2025-05-16
+85,Customer_85,Laptop,Completely different from what was shown.,2025-06-02
+86,Customer_86,Camera,Very satisfied with the product performance.,2025-10-16
+87,Customer_87,Smartphone,"Superb experience, will buy again.",2025-08-17
+88,Customer_88,TV,Worth every penny! Excellent quality.,2025-06-19
+89,Customer_89,TV,Worth every penny! Excellent quality.,2025-05-13
+90,Customer_90,Microwave,Good value for money.,2025-09-04
+91,Customer_91,Backpack,Works fine but could be better.,2025-10-07
+92,Customer_92,Camera,Really happy with my purchase!,2025-07-31
+93,Customer_93,Refrigerator,Very satisfied with the product performance.,2025-06-12
+94,Customer_94,Smartwatch,Very comfortable and stylish product.,2025-05-08
+95,Customer_95,TV,Completely different from what was shown.,2025-08-07
+96,Customer_96,Smartphone,Amazing quality and fast delivery!,2025-08-15
+97,Customer_97,Headphones,"Product is okay, nothing special.",2025-06-30
+98,Customer_98,Smartwatch,Design is simple and functional.,2025-05-12
+99,Customer_99,Refrigerator,The packaging and build quality are perfect.,2025-09-30
+100,Customer_100,Headphones,Product exceeded expectations.,2025-10-06
+101,Customer_101,Refrigerator,Highly recommended! Great service.,2025-07-16
+102,Customer_102,TV,Works fine but could be better.,2025-05-31
+103,Customer_103,Refrigerator,Worth every penny! Excellent quality.,2025-05-22
+104,Customer_104,Smartwatch,"Battery drains too fast, disappointed.",2025-07-21
+105,Customer_105,Camera,"Neutral experience, no major complaints.",2025-06-16
+106,Customer_106,Smartphone,"Battery drains too fast, disappointed.",2025-06-21
+107,Customer_107,Camera,Very comfortable and stylish product.,2025-05-18
+108,Customer_108,Smartwatch,Amazing quality and fast delivery!,2025-05-04
+109,Customer_109,Refrigerator,Product exceeded expectations.,2025-06-17
+110,Customer_110,Headphones,Completely different from what was shown.,2025-08-03
+111,Customer_111,Smartwatch,"Product is okay, nothing special.",2025-05-14
+112,Customer_112,Laptop,"Superb experience, will buy again.",2025-07-08
+113,Customer_113,Refrigerator,Very satisfied with the product performance.,2025-08-23
+114,Customer_114,Smartphone,Worth every penny! Excellent quality.,2025-09-27
+115,Customer_115,Shoes,Really happy with my purchase!,2025-07-20
+116,Customer_116,Laptop,Product exceeded expectations.,2025-09-16
+117,Customer_117,Laptop,Amazing quality and fast delivery!,2025-10-19
+118,Customer_118,Refrigerator,"Superb experience, will buy again.",2025-08-13
+119,Customer_119,Smartphone,"Not satisfied, expecting refund.",2025-09-22
+120,Customer_120,TV,Good value for money.,2025-05-11
+121,Customer_121,Smartphone,The product quality is below average.,2025-10-20
+122,Customer_122,Smartphone,"Received on time, product is okay.",2025-08-21
+123,Customer_123,Backpack,Product stopped working after a week.,2025-08-30
+124,Customer_124,Shoes,Product exceeded expectations.,2025-07-19
+125,Customer_125,Refrigerator,Good value for money.,2025-07-19
+126,Customer_126,Headphones,Very comfortable and stylish product.,2025-10-26
+127,Customer_127,Shoes,The size does not match the description.,2025-05-08
+128,Customer_128,Smartphone,Really happy with my purchase!,2025-10-03
+129,Customer_129,Smartwatch,Worth every penny! Excellent quality.,2025-09-14
+130,Customer_130,Shoes,Product exceeded expectations.,2025-10-23
+131,Customer_131,Camera,Amazing quality and fast delivery!,2025-10-03
+132,Customer_132,Refrigerator,Received a damaged item.,2025-08-13
+133,Customer_133,Refrigerator,Good value for money.,2025-07-03
+134,Customer_134,Camera,Received a damaged item.,2025-07-23
+135,Customer_135,TV,The product quality is below average.,2025-08-07
+136,Customer_136,Backpack,"Battery drains too fast, disappointed.",2025-05-29
+137,Customer_137,TV,Completely different from what was shown.,2025-08-23
+138,Customer_138,Smartphone,Very comfortable and stylish product.,2025-06-17
+139,Customer_139,Shoes,Highly recommended! Great service.,2025-10-15
+140,Customer_140,Backpack,Completely different from what was shown.,2025-07-27
+141,Customer_141,Camera,The packaging and build quality are perfect.,2025-10-21
+142,Customer_142,Camera,Good value for money.,2025-08-24
+143,Customer_143,Backpack,Good value for money.,2025-09-28
+144,Customer_144,Headphones,Very comfortable and stylish product.,2025-07-23
+145,Customer_145,Refrigerator,The packaging and build quality are perfect.,2025-08-12
+146,Customer_146,Refrigerator,Very satisfied with the product performance.,2025-08-19
+147,Customer_147,Camera,Worth every penny! Excellent quality.,2025-06-21
+148,Customer_148,Camera,The size does not match the description.,2025-06-21
+149,Customer_149,Microwave,Amazing quality and fast delivery!,2025-08-31
+150,Customer_150,Refrigerator,Worth every penny! Excellent quality.,2025-10-21
+151,Customer_151,Refrigerator,"Terrible experience, not worth the price.",2025-05-30
+152,Customer_152,TV,Worth every penny! Excellent quality.,2025-05-29
+153,Customer_153,Smartphone,Highly recommended! Great service.,2025-07-07
+154,Customer_154,Shoes,Very satisfied with the product performance.,2025-05-27
+155,Customer_155,Smartphone,"Received on time, product is okay.",2025-09-24
+156,Customer_156,Shoes,"Battery drains too fast, disappointed.",2025-06-13
+157,Customer_157,Shoes,Very comfortable and stylish product.,2025-10-03
+158,Customer_158,Backpack,"Battery drains too fast, disappointed.",2025-06-24
+159,Customer_159,Smartphone,"Performance is fine, not too impressive.",2025-08-15
+160,Customer_160,Microwave,The packaging and build quality are perfect.,2025-06-26
+161,Customer_161,Refrigerator,"Performance is fine, not too impressive.",2025-10-24
+162,Customer_162,Shoes,Worth every penny! Excellent quality.,2025-10-14
+163,Customer_163,Microwave,Really happy with my purchase!,2025-06-02
+164,Customer_164,Smartwatch,Product exceeded expectations.,2025-10-16
+165,Customer_165,Microwave,Worth every penny! Excellent quality.,2025-08-01
+166,Customer_166,Microwave,Worth every penny! Excellent quality.,2025-06-30
+167,Customer_167,Refrigerator,Poor customer service and delay in delivery.,2025-05-08
+168,Customer_168,Shoes,Highly recommended! Great service.,2025-10-02
+169,Customer_169,Camera,The size does not match the description.,2025-08-29
+170,Customer_170,Smartphone,The size does not match the description.,2025-07-17
+171,Customer_171,Shoes,Completely different from what was shown.,2025-05-08
+172,Customer_172,TV,Product exceeded expectations.,2025-10-20
+173,Customer_173,Headphones,Good value for money.,2025-10-09
+174,Customer_174,Microwave,"Received on time, product is okay.",2025-07-07
+175,Customer_175,Smartwatch,Completely different from what was shown.,2025-10-07
+176,Customer_176,Shoes,The packaging and build quality are perfect.,2025-07-22
+177,Customer_177,Smartwatch,The packaging and build quality are perfect.,2025-09-24
+178,Customer_178,Shoes,Amazing quality and fast delivery!,2025-07-11
+179,Customer_179,Smartphone,Product exceeded expectations.,2025-05-23
+180,Customer_180,Shoes,Very satisfied with the product performance.,2025-06-11
+181,Customer_181,Headphones,"Battery drains too fast, disappointed.",2025-07-10
+182,Customer_182,Shoes,Really happy with my purchase!,2025-08-03
+183,Customer_183,Smartwatch,Worth every penny! Excellent quality.,2025-10-09
+184,Customer_184,Shoes,The packaging and build quality are perfect.,2025-09-06
+185,Customer_185,TV,"Performance is fine, not too impressive.",2025-05-25
+186,Customer_186,Camera,Poor customer service and delay in delivery.,2025-08-04
+187,Customer_187,Backpack,Amazing quality and fast delivery!,2025-08-07
+188,Customer_188,Shoes,It’s okay for the price.,2025-09-30
+189,Customer_189,Smartphone,Very satisfied with the product performance.,2025-08-30
+190,Customer_190,Laptop,Completely different from what was shown.,2025-05-16
+191,Customer_191,Refrigerator,Very comfortable and stylish product.,2025-10-29
+192,Customer_192,TV,Product exceeded expectations.,2025-08-14
+193,Customer_193,Smartwatch,Amazing quality and fast delivery!,2025-10-20
+194,Customer_194,Smartphone,Worth every penny! Excellent quality.,2025-09-14
+195,Customer_195,TV,Really happy with my purchase!,2025-10-20
+196,Customer_196,Headphones,Very comfortable and stylish product.,2025-09-11
+197,Customer_197,Camera,Design is simple and functional.,2025-10-14
+198,Customer_198,TV,Poor customer service and delay in delivery.,2025-10-17
+199,Customer_199,Camera,Highly recommended! Great service.,2025-10-09
+200,Customer_200,Headphones,"Superb experience, will buy again.",2025-10-21
+201,Customer_201,Microwave,Good value for money.,2025-09-21
+202,Customer_202,Microwave,Very satisfied with the product performance.,2025-10-21
+203,Customer_203,Refrigerator,Very comfortable and stylish product.,2025-09-01
+204,Customer_204,Smartwatch,Very comfortable and stylish product.,2025-09-23
+205,Customer_205,Headphones,"Received on time, product is okay.",2025-05-29
+206,Customer_206,Camera,Product exceeded expectations.,2025-07-15
+207,Customer_207,Headphones,Average experience overall.,2025-07-22
+208,Customer_208,Microwave,Really happy with my purchase!,2025-09-11
+209,Customer_209,Shoes,Performance is very slow and laggy.,2025-06-11
+210,Customer_210,Headphones,"Performance is fine, not too impressive.",2025-07-14
+211,Customer_211,Camera,Product exceeded expectations.,2025-08-20
+212,Customer_212,Smartphone,Received a damaged item.,2025-08-17
+213,Customer_213,Refrigerator,Very comfortable and stylish product.,2025-07-26
+214,Customer_214,Shoes,The packaging and build quality are perfect.,2025-07-19
+215,Customer_215,Smartwatch,Amazing quality and fast delivery!,2025-07-27
+216,Customer_216,Smartwatch,"Product is okay, nothing special.",2025-08-14
+217,Customer_217,Smartwatch,Very comfortable and stylish product.,2025-06-25
+218,Customer_218,Headphones,The packaging and build quality are perfect.,2025-06-26
+219,Customer_219,Smartphone,Highly recommended! Great service.,2025-05-04
+220,Customer_220,Smartwatch,Very satisfied with the product performance.,2025-05-19
+221,Customer_221,Smartphone,"Battery drains too fast, disappointed.",2025-05-10
+222,Customer_222,Camera,"Neutral experience, no major complaints.",2025-10-21
+223,Customer_223,TV,"Terrible experience, not worth the price.",2025-05-22
+224,Customer_224,TV,"Terrible experience, not worth the price.",2025-07-07
+225,Customer_225,Backpack,Very satisfied with the product performance.,2025-08-26
+226,Customer_226,Camera,The size does not match the description.,2025-10-23
+227,Customer_227,Shoes,"Not satisfied, expecting refund.",2025-07-31
+228,Customer_228,Camera,"Packaging was decent, product works.",2025-09-13
+229,Customer_229,Headphones,"Not satisfied, expecting refund.",2025-05-17
+230,Customer_230,Smartphone,Worth every penny! Excellent quality.,2025-05-28
+231,Customer_231,Smartwatch,The size does not match the description.,2025-07-02
+232,Customer_232,Smartwatch,Worth every penny! Excellent quality.,2025-07-05
+233,Customer_233,Backpack,The packaging and build quality are perfect.,2025-05-02
+234,Customer_234,Smartphone,Received a damaged item.,2025-07-16
+235,Customer_235,Smartphone,Really happy with my purchase!,2025-10-22
+236,Customer_236,Smartwatch,"Neither good nor bad, just average.",2025-09-03
+237,Customer_237,Headphones,Very comfortable and stylish product.,2025-07-24
+238,Customer_238,Headphones,"Performance is fine, not too impressive.",2025-10-03
+239,Customer_239,Smartphone,"Superb experience, will buy again.",2025-05-04
+240,Customer_240,Smartwatch,The packaging and build quality are perfect.,2025-06-10
+241,Customer_241,Laptop,Design is simple and functional.,2025-07-31
+242,Customer_242,Headphones,Average experience overall.,2025-06-24
+243,Customer_243,Camera,"Packaging was decent, product works.",2025-07-28
+244,Customer_244,Smartphone,Very satisfied with the product performance.,2025-08-06
+245,Customer_245,Headphones,The packaging and build quality are perfect.,2025-09-08
+246,Customer_246,Shoes,Amazing quality and fast delivery!,2025-06-08
+247,Customer_247,Headphones,Very satisfied with the product performance.,2025-08-26
+248,Customer_248,Shoes,"Not satisfied, expecting refund.",2025-08-08
+249,Customer_249,Microwave,"Packaging was decent, product works.",2025-05-29
+250,Customer_250,Smartphone,The packaging and build quality are perfect.,2025-05-06
+251,Customer_251,Refrigerator,Highly recommended! Great service.,2025-05-10
+252,Customer_252,Refrigerator,Amazing quality and fast delivery!,2025-10-09
+253,Customer_253,Laptop,Average experience overall.,2025-08-09
+254,Customer_254,Camera,"Superb experience, will buy again.",2025-08-23
+255,Customer_255,Backpack,Highly recommended! Great service.,2025-10-24
+256,Customer_256,Shoes,Product exceeded expectations.,2025-07-25
+257,Customer_257,Camera,The product quality is below average.,2025-10-19
+258,Customer_258,Camera,The packaging and build quality are perfect.,2025-07-05
+259,Customer_259,Laptop,Product stopped working after a week.,2025-08-03
+260,Customer_260,Smartwatch,Highly recommended! Great service.,2025-07-10
+261,Customer_261,Refrigerator,Product exceeded expectations.,2025-07-12
+262,Customer_262,Laptop,"Not satisfied, expecting refund.",2025-07-03
+263,Customer_263,Refrigerator,Worth every penny! Excellent quality.,2025-09-01
+264,Customer_264,TV,"Battery drains too fast, disappointed.",2025-05-17
+265,Customer_265,Laptop,Performance is very slow and laggy.,2025-08-06
+266,Customer_266,TV,Amazing quality and fast delivery!,2025-08-19
+267,Customer_267,TV,Good value for money.,2025-05-26
+268,Customer_268,TV,Really happy with my purchase!,2025-06-15
+269,Customer_269,Smartwatch,"Neutral experience, no major complaints.",2025-05-05
+270,Customer_270,Camera,Design is simple and functional.,2025-08-25
+271,Customer_271,Smartwatch,Design is simple and functional.,2025-05-20
+272,Customer_272,Backpack,"Not satisfied, expecting refund.",2025-08-23
+273,Customer_273,Camera,Average experience overall.,2025-06-02
+274,Customer_274,Laptop,The product quality is below average.,2025-09-11
+275,Customer_275,Smartwatch,Product exceeded expectations.,2025-07-25
+276,Customer_276,Camera,Really happy with my purchase!,2025-06-14
+277,Customer_277,Camera,"Superb experience, will buy again.",2025-10-03
+278,Customer_278,Microwave,It’s okay for the price.,2025-09-07
+279,Customer_279,Laptop,Very comfortable and stylish product.,2025-07-31
+280,Customer_280,Microwave,Performance is very slow and laggy.,2025-07-09
+281,Customer_281,Camera,Worth every penny! Excellent quality.,2025-07-21
+282,Customer_282,Refrigerator,Very satisfied with the product performance.,2025-07-11
+283,Customer_283,TV,"Neither good nor bad, just average.",2025-08-28
+284,Customer_284,Shoes,"Superb experience, will buy again.",2025-08-30
+285,Customer_285,Shoes,"Packaging was decent, product works.",2025-07-20
+286,Customer_286,Refrigerator,Product exceeded expectations.,2025-08-18
+287,Customer_287,Smartwatch,"Superb experience, will buy again.",2025-05-19
+288,Customer_288,Smartphone,Very satisfied with the product performance.,2025-06-28
+289,Customer_289,Microwave,Highly recommended! Great service.,2025-08-31
+290,Customer_290,Backpack,Amazing quality and fast delivery!,2025-09-28
+291,Customer_291,Camera,Product exceeded expectations.,2025-09-05
+292,Customer_292,Headphones,Product exceeded expectations.,2025-10-01
+293,Customer_293,Backpack,Product stopped working after a week.,2025-09-19
+294,Customer_294,Shoes,Really happy with my purchase!,2025-08-01
+295,Customer_295,Shoes,Good value for money.,2025-05-20
+296,Customer_296,Microwave,"Packaging was decent, product works.",2025-07-24
+297,Customer_297,Laptop,Highly recommended! Great service.,2025-10-17
+298,Customer_298,Backpack,Good value for money.,2025-08-04
+299,Customer_299,Microwave,Very satisfied with the product performance.,2025-08-17
+300,Customer_300,Headphones,The size does not match the description.,2025-08-25
+301,Customer_301,Smartwatch,Highly recommended! Great service.,2025-10-24
+302,Customer_302,Camera,Good value for money.,2025-05-11
+303,Customer_303,Microwave,"Superb experience, will buy again.",2025-07-17
+304,Customer_304,Camera,The packaging and build quality are perfect.,2025-09-01
+305,Customer_305,Smartphone,Worth every penny! Excellent quality.,2025-05-09
+306,Customer_306,Microwave,Good value for money.,2025-09-10
+307,Customer_307,Headphones,"Superb experience, will buy again.",2025-10-23
+308,Customer_308,Microwave,Design is simple and functional.,2025-06-15
+309,Customer_309,Smartwatch,Really happy with my purchase!,2025-05-15
+310,Customer_310,Refrigerator,The packaging and build quality are perfect.,2025-05-25
+311,Customer_311,Smartwatch,Completely different from what was shown.,2025-08-04
+312,Customer_312,Microwave,Highly recommended! Great service.,2025-07-25
+313,Customer_313,Laptop,Works fine but could be better.,2025-10-29
+314,Customer_314,Backpack,The size does not match the description.,2025-07-06
+315,Customer_315,Refrigerator,Good value for money.,2025-05-17
+316,Customer_316,Shoes,It’s okay for the price.,2025-10-03
+317,Customer_317,Headphones,Worth every penny! Excellent quality.,2025-09-27
+318,Customer_318,Smartphone,Really happy with my purchase!,2025-05-08
+319,Customer_319,Microwave,Product exceeded expectations.,2025-05-17
+320,Customer_320,Laptop,Really happy with my purchase!,2025-09-12
+321,Customer_321,Backpack,Performance is very slow and laggy.,2025-08-04
+322,Customer_322,Camera,Performance is very slow and laggy.,2025-10-19
+323,Customer_323,Laptop,Poor customer service and delay in delivery.,2025-06-10
+324,Customer_324,Headphones,"Neither good nor bad, just average.",2025-10-21
+325,Customer_325,TV,"Product is okay, nothing special.",2025-07-27
+326,Customer_326,Backpack,Worth every penny! Excellent quality.,2025-08-09
+327,Customer_327,Smartphone,"Superb experience, will buy again.",2025-05-10
+328,Customer_328,Smartwatch,Good value for money.,2025-10-08
+329,Customer_329,Camera,Very comfortable and stylish product.,2025-07-01
+330,Customer_330,Smartwatch,Really happy with my purchase!,2025-10-07
+331,Customer_331,Smartwatch,"Superb experience, will buy again.",2025-07-14
+332,Customer_332,Smartwatch,"Battery drains too fast, disappointed.",2025-09-08
+333,Customer_333,TV,Good value for money.,2025-08-04
+334,Customer_334,Refrigerator,"Superb experience, will buy again.",2025-06-17
+335,Customer_335,Camera,"Packaging was decent, product works.",2025-06-21
+336,Customer_336,Microwave,Really happy with my purchase!,2025-10-21
+337,Customer_337,Smartphone,Really happy with my purchase!,2025-08-01
+338,Customer_338,Camera,Amazing quality and fast delivery!,2025-09-12
+339,Customer_339,Smartphone,Highly recommended! Great service.,2025-08-31
+340,Customer_340,Backpack,Very comfortable and stylish product.,2025-07-05
+341,Customer_341,Smartwatch,Very satisfied with the product performance.,2025-08-11
+342,Customer_342,Smartwatch,"Superb experience, will buy again.",2025-05-17
+343,Customer_343,Headphones,The size does not match the description.,2025-06-02
+344,Customer_344,Backpack,Average experience overall.,2025-07-09
+345,Customer_345,Smartwatch,Very satisfied with the product performance.,2025-06-13
+346,Customer_346,Headphones,Really happy with my purchase!,2025-05-22
+347,Customer_347,Smartwatch,Worth every penny! Excellent quality.,2025-06-21
+348,Customer_348,Backpack,"Superb experience, will buy again.",2025-09-09
+349,Customer_349,Smartphone,Very satisfied with the product performance.,2025-07-18
+350,Customer_350,Backpack,Performance is very slow and laggy.,2025-08-18
+351,Customer_351,Smartwatch,Received a damaged item.,2025-07-19
+352,Customer_352,TV,The size does not match the description.,2025-09-28
+353,Customer_353,TV,Product exceeded expectations.,2025-10-19
+354,Customer_354,Laptop,Very comfortable and stylish product.,2025-05-09
+355,Customer_355,Laptop,"Superb experience, will buy again.",2025-05-12
+356,Customer_356,Microwave,Worth every penny! Excellent quality.,2025-07-02
+357,Customer_357,Headphones,Worth every penny! Excellent quality.,2025-10-12
+358,Customer_358,Laptop,Worth every penny! Excellent quality.,2025-08-02
+359,Customer_359,Backpack,Poor customer service and delay in delivery.,2025-08-03
+360,Customer_360,Laptop,Really happy with my purchase!,2025-10-16
+361,Customer_361,Refrigerator,"Superb experience, will buy again.",2025-06-21
+362,Customer_362,Refrigerator,"Superb experience, will buy again.",2025-08-13
+363,Customer_363,Smartwatch,The packaging and build quality are perfect.,2025-10-18
+364,Customer_364,Shoes,Product exceeded expectations.,2025-09-10
+365,Customer_365,Smartwatch,Highly recommended! Great service.,2025-09-19
+366,Customer_366,Shoes,Really happy with my purchase!,2025-06-25
+367,Customer_367,Smartphone,Really happy with my purchase!,2025-06-02
+368,Customer_368,Refrigerator,Really happy with my purchase!,2025-05-08
+369,Customer_369,Camera,"Not satisfied, expecting refund.",2025-08-31
+370,Customer_370,Smartphone,Amazing quality and fast delivery!,2025-06-21
+371,Customer_371,Refrigerator,Worth every penny! Excellent quality.,2025-07-05
+372,Customer_372,Refrigerator,"Product is okay, nothing special.",2025-09-24
+373,Customer_373,TV,Amazing quality and fast delivery!,2025-05-16
+374,Customer_374,Laptop,The size does not match the description.,2025-09-05
+375,Customer_375,Smartwatch,Worth every penny! Excellent quality.,2025-06-14
+376,Customer_376,Microwave,Worth every penny! Excellent quality.,2025-07-27
+377,Customer_377,TV,Worth every penny! Excellent quality.,2025-10-04
+378,Customer_378,Camera,Really happy with my purchase!,2025-10-15
+379,Customer_379,Smartwatch,"Terrible experience, not worth the price.",2025-09-17
+380,Customer_380,Headphones,Product exceeded expectations.,2025-08-02
+381,Customer_381,Laptop,Good value for money.,2025-07-10
+382,Customer_382,Refrigerator,Received a damaged item.,2025-07-14
+383,Customer_383,Headphones,Completely different from what was shown.,2025-09-06
+384,Customer_384,TV,"Not satisfied, expecting refund.",2025-06-08
+385,Customer_385,Headphones,"Superb experience, will buy again.",2025-05-27
+386,Customer_386,Smartphone,Good value for money.,2025-09-25
+387,Customer_387,Smartwatch,Highly recommended! Great service.,2025-08-24
+388,Customer_388,Headphones,"Not satisfied, expecting refund.",2025-08-23
+389,Customer_389,TV,"Not satisfied, expecting refund.",2025-05-12
+390,Customer_390,Microwave,The packaging and build quality are perfect.,2025-05-16
+391,Customer_391,Laptop,Average experience overall.,2025-05-25
+392,Customer_392,Refrigerator,Highly recommended! Great service.,2025-09-05
+393,Customer_393,Laptop,"Performance is fine, not too impressive.",2025-10-04
+394,Customer_394,Microwave,Amazing quality and fast delivery!,2025-09-13
+395,Customer_395,Smartphone,Amazing quality and fast delivery!,2025-06-26
+396,Customer_396,Headphones,The product quality is below average.,2025-09-25
+397,Customer_397,Smartphone,"Neutral experience, no major complaints.",2025-05-24
+398,Customer_398,Backpack,Product exceeded expectations.,2025-10-19
+399,Customer_399,Microwave,Product stopped working after a week.,2025-09-06
+400,Customer_400,TV,Highly recommended! Great service.,2025-08-29
+401,Customer_401,Refrigerator,"Superb experience, will buy again.",2025-08-20
+402,Customer_402,Microwave,Amazing quality and fast delivery!,2025-10-27
+403,Customer_403,Smartwatch,Worth every penny! Excellent quality.,2025-09-14
+404,Customer_404,Refrigerator,Highly recommended! Great service.,2025-06-13
+405,Customer_405,Laptop,Amazing quality and fast delivery!,2025-09-28
+406,Customer_406,Refrigerator,Works fine but could be better.,2025-08-12
+407,Customer_407,Backpack,Completely different from what was shown.,2025-06-09
+408,Customer_408,Smartwatch,Highly recommended! Great service.,2025-06-05
+409,Customer_409,Backpack,The packaging and build quality are perfect.,2025-07-16
+410,Customer_410,Smartwatch,Performance is very slow and laggy.,2025-09-08
+411,Customer_411,Camera,Design is simple and functional.,2025-10-04
+412,Customer_412,TV,The packaging and build quality are perfect.,2025-07-13
+413,Customer_413,TV,Product stopped working after a week.,2025-07-14
+414,Customer_414,Smartwatch,Very satisfied with the product performance.,2025-07-21
+415,Customer_415,Headphones,"Product is okay, nothing special.",2025-10-23
+416,Customer_416,Smartwatch,Really happy with my purchase!,2025-07-30
+417,Customer_417,Refrigerator,Product exceeded expectations.,2025-07-17
+418,Customer_418,Camera,The product quality is below average.,2025-10-15
+419,Customer_419,Headphones,Very satisfied with the product performance.,2025-05-03
+420,Customer_420,Headphones,Very satisfied with the product performance.,2025-07-23
+421,Customer_421,Shoes,Works fine but could be better.,2025-06-23
+422,Customer_422,Microwave,Worth every penny! Excellent quality.,2025-09-13
+423,Customer_423,Laptop,Very comfortable and stylish product.,2025-09-27
+424,Customer_424,TV,Very comfortable and stylish product.,2025-08-15
+425,Customer_425,Laptop,Very satisfied with the product performance.,2025-10-09
+426,Customer_426,Laptop,Good value for money.,2025-09-20
+427,Customer_427,Smartphone,Product stopped working after a week.,2025-09-06
+428,Customer_428,Backpack,Performance is very slow and laggy.,2025-10-03
+429,Customer_429,Microwave,Product exceeded expectations.,2025-08-01
+430,Customer_430,TV,Worth every penny! Excellent quality.,2025-07-02
+431,Customer_431,Microwave,Average experience overall.,2025-06-16
+432,Customer_432,Microwave,Good value for money.,2025-10-04
+433,Customer_433,Smartphone,The packaging and build quality are perfect.,2025-10-08
+434,Customer_434,TV,Performance is very slow and laggy.,2025-08-09
+435,Customer_435,Laptop,Received a damaged item.,2025-08-11
+436,Customer_436,Refrigerator,Very comfortable and stylish product.,2025-09-05
+437,Customer_437,Backpack,Amazing quality and fast delivery!,2025-07-29
+438,Customer_438,Headphones,Product stopped working after a week.,2025-06-07
+439,Customer_439,TV,Amazing quality and fast delivery!,2025-07-14
+440,Customer_440,TV,Average experience overall.,2025-07-23
+441,Customer_441,Smartwatch,Completely different from what was shown.,2025-08-01
+442,Customer_442,Microwave,"Superb experience, will buy again.",2025-08-05
+443,Customer_443,Camera,Design is simple and functional.,2025-07-15
+444,Customer_444,Microwave,Very comfortable and stylish product.,2025-09-18
+445,Customer_445,Headphones,The product quality is below average.,2025-09-11
+446,Customer_446,Smartphone,Very comfortable and stylish product.,2025-06-06
+447,Customer_447,Shoes,"Neither good nor bad, just average.",2025-10-27
+448,Customer_448,Backpack,"Terrible experience, not worth the price.",2025-07-11
+449,Customer_449,Smartwatch,Poor customer service and delay in delivery.,2025-07-17
+450,Customer_450,Smartphone,Very comfortable and stylish product.,2025-06-23
+451,Customer_451,Smartphone,"Superb experience, will buy again.",2025-05-16
+452,Customer_452,Backpack,Performance is very slow and laggy.,2025-10-15
+453,Customer_453,Microwave,"Product is okay, nothing special.",2025-07-12
+454,Customer_454,Backpack,Worth every penny! Excellent quality.,2025-09-26
+455,Customer_455,Smartwatch,Completely different from what was shown.,2025-08-27
+456,Customer_456,Refrigerator,Poor customer service and delay in delivery.,2025-10-19
+457,Customer_457,TV,Good value for money.,2025-06-01
+458,Customer_458,Microwave,Completely different from what was shown.,2025-07-16
+459,Customer_459,Smartphone,Highly recommended! Great service.,2025-07-05
+460,Customer_460,Smartwatch,Amazing quality and fast delivery!,2025-06-23
+461,Customer_461,Headphones,"Neutral experience, no major complaints.",2025-05-23
+462,Customer_462,Headphones,Product stopped working after a week.,2025-08-22
+463,Customer_463,TV,Poor customer service and delay in delivery.,2025-07-30
+464,Customer_464,Camera,The product quality is below average.,2025-06-05
+465,Customer_465,Microwave,"Performance is fine, not too impressive.",2025-10-13
+466,Customer_466,Refrigerator,Worth every penny! Excellent quality.,2025-07-11
+467,Customer_467,TV,The packaging and build quality are perfect.,2025-08-21
+468,Customer_468,Refrigerator,Design is simple and functional.,2025-06-18
+469,Customer_469,Camera,"Battery drains too fast, disappointed.",2025-05-07
+470,Customer_470,Smartwatch,It’s okay for the price.,2025-05-31
+471,Customer_471,Smartphone,"Product is okay, nothing special.",2025-09-09
+472,Customer_472,Headphones,Amazing quality and fast delivery!,2025-09-09
+473,Customer_473,TV,The packaging and build quality are perfect.,2025-05-02
+474,Customer_474,Camera,Highly recommended! Great service.,2025-05-24
+475,Customer_475,Backpack,Amazing quality and fast delivery!,2025-10-16
+476,Customer_476,Camera,Works fine but could be better.,2025-05-28
+477,Customer_477,Backpack,Very satisfied with the product performance.,2025-05-09
+478,Customer_478,TV,Very satisfied with the product performance.,2025-06-16
+479,Customer_479,Headphones,Really happy with my purchase!,2025-08-14
+480,Customer_480,Refrigerator,"Performance is fine, not too impressive.",2025-06-18
+481,Customer_481,TV,The product quality is below average.,2025-09-11
+482,Customer_482,TV,Amazing quality and fast delivery!,2025-09-24
+483,Customer_483,Microwave,The size does not match the description.,2025-08-23
+484,Customer_484,TV,"Battery drains too fast, disappointed.",2025-10-09
+485,Customer_485,Headphones,Good value for money.,2025-06-15
+486,Customer_486,TV,Amazing quality and fast delivery!,2025-09-29
+487,Customer_487,Headphones,Amazing quality and fast delivery!,2025-06-29
+488,Customer_488,Shoes,Very comfortable and stylish product.,2025-07-15
+489,Customer_489,Headphones,The packaging and build quality are perfect.,2025-05-24
+490,Customer_490,TV,"Terrible experience, not worth the price.",2025-09-18
+491,Customer_491,Smartphone,Poor customer service and delay in delivery.,2025-06-24
+492,Customer_492,Smartphone,Performance is very slow and laggy.,2025-07-11
+493,Customer_493,Backpack,Worth every penny! Excellent quality.,2025-05-13
+494,Customer_494,Shoes,Poor customer service and delay in delivery.,2025-06-02
+495,Customer_495,Laptop,Really happy with my purchase!,2025-10-07
+496,Customer_496,Microwave,"Superb experience, will buy again.",2025-05-11
+497,Customer_497,Backpack,Very comfortable and stylish product.,2025-10-19
+498,Customer_498,Smartphone,Highly recommended! Great service.,2025-10-15
+499,Customer_499,Smartphone,Really happy with my purchase!,2025-05-09
+500,Customer_500,TV,"Performance is fine, not too impressive.",2025-10-21
